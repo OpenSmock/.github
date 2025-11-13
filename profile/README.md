@@ -10,7 +10,7 @@ A collection of Pharo libraries, tools, frameworks, and software from the Thales
 
 [Pyramid](https://github.com/OpenSmock/Pyramid) - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
 
-[OpenSmock](https://github.com/OpenSmock/OpenSmock) - Workshop and utilities to make applications, specialy user interfaces (UI), in Pharo.
+[OpenSmock](https://github.com/OpenSmock/OpenSmock) - A collection of tools and workshops designed to streamline the development of applications - especially user interfaces (UI) - within the Pharo programming environment.
 
 [Iconography](https://github.com/OpenSmock/Iconography) - Use icons libraries (Material Design, Ant Design) in your project : Import, manage, get and store.
 
