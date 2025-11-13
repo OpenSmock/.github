@@ -6,13 +6,51 @@ A collection of Pharo libraries, tools, frameworks, and software from the Thales
 
 ## Our Pharo projects
 
-### Geographic tools and cartographic display:
+### 💻 User-Interfaces 
+
+[Pyramid](https://github.com/OpenSmock/Pyramid) - Pyramid is a Graphical User-Interface (GUI) builder and editor for Bloc and Toplo.
+
+[OpenSmock](https://github.com/OpenSmock/OpenSmock) - Workshop and utilities to make applications, specialy user interfaces (UI), in Pharo.
+
+[Iconography](https://github.com/OpenSmock/Iconography) - Use icons libraries (Material Design, Ant Design) in your project : Import, manage, get and store.
+
+### 🌍 Geographic tools and cartographic display:
 
 [GeoView](https://github.com/ThalesGroup/GeoView) - Views to display and interact with geographical objects and cartographic layers for UI.
 
 [GeoTools](https://github.com/ThalesGroup/GeoTools) - Geographic Tools as Coordinates, Kinematics and Geodesic utilities for GIS.
 
 [PharoOWS](https://github.com/ThalesGroup/PharoOWS) - Implementation of OGC Web Services (OWS) support for Pharo.
+
+### 🏗️ Software architecture
+
+[Molecule](https://github.com/OpenSmock/Molecule) - Molecule is a Pharo component framework.
+
+### 🕹️ Hardware
+
+[PharoStreamDeck](https://github.com/OpenSmock/PharoStreamDeck) - Elgato Stream Deck utils for Pharo.
+
+### 🛠️ Libraries and tools
+
+[PharoZeroMQ](https://github.com/OpenSmock/PharoZeroMQ) - ZeroMQ (ØMQ, 0MQ or ZMQ) library for Pharo.
+
+[Stash](https://github.com/OpenSmock/Stash) - A source-code serializer for Pharo.
+
+[Toplo-Serialization](https://github.com/OpenSmock/Toplo-Serialization) - Toplo serialization features to store/unstore ToElements.
+
+[Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) - Bloc serialization features to store/unstore BlElements.
+
+### 🎨 Figma utils
+
+[FigmaToWorld](https://github.com/OpenSmock/FigmaToWorld) - Figma plug-ins for exchanges with external world.
+
+[Pyramid-Plugins-FigmaToWorld](https://github.com/OpenSmock/Pyramid-Plugins-FigmaToWorld) - This Pyramid plugin exploit capacities from the Figma plugin "FigmaToWorld" to import Figma design into Pyramid UI editor.
+
+[Bloc-Figma](https://github.com/OpenSmock/Bloc-Figma) - Tools to generate Bloc elements from Figma datas.
+
+### ⚙️ Operating-Systems
+
+[OS-Windows](https://github.com/OpenSmock/OS-Windows) - Extensions for Pharo-OS-Windows.
 
 ## About this page
 
