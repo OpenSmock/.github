@@ -29,7 +29,7 @@ A collection of Pharo libraries, tools, frameworks, and software from the Thales
 ### 🛠️ Libraries and Tools
 
 - [PharoZeroMQ](https://github.com/OpenSmock/PharoZeroMQ) - A ZeroMQ (ØMQ, 0MQ or ZMQ) library for Pharo.
-- [Stash](https://github.com/OpenSmock/Stash) - A source-code serializer for Pharo.
+- [Stash](https://github.com/ThalesGroup/Stash) - A serializer that convert instances into code.
 - [Toplo-Serialization](https://github.com/OpenSmock/Toplo-Serialization) - Toplo serialization features to store/unstore ToElements.
 - [Bloc-Serialization](https://github.com/OpenSmock/Bloc-Serialization) - Bloc serialization features to store/unstore BlElements.
 
